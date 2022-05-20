@@ -22,3 +22,11 @@ Currently the script only does one topic at a time, in the future I'll implement
 -If there are duplicates in the brainscape deck the script will stop <br/>
 - If you put in the wrong url it won't work <br/>
 - If you create an Anki deck that already exists
+
+<h2>Walkthrough </h2>
+![image](https://user-images.githubusercontent.com/63613042/169578397-f54ddbb6-2eaa-4dc8-b75e-ea1f7572a183.png)
+![image](https://user-images.githubusercontent.com/63613042/169578448-57138beb-64e7-4230-8dbe-0114cd25648c.png)
+![image](https://user-images.githubusercontent.com/63613042/169578481-50699d67-f65c-4033-9aec-1a1b0d9601ca.png)
+![image](https://user-images.githubusercontent.com/63613042/169578516-c51212c6-289a-4438-bb25-f161bc8a3577.png)
+![image](https://user-images.githubusercontent.com/63613042/169578543-c0c00655-1c96-4ae5-b9c3-518228a5284d.png)
+<h2> Done! </h2>
