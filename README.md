@@ -26,7 +26,7 @@ Currently the script only does one topic at a time, in the future I'll implement
 <h2>Walkthrough </h2>
 <h4> When you start the progam you should first get this screen, the rest is <b>trivial</b> </h4>
 
-![image](https://user-images.githubusercontent.com/63613042/169578397-f54ddbb6-2eaa-4dc8-b75e-ea1f7572a183.png)
+<!-- ![image](https://user-images.githubusercontent.com/63613042/169578397-f54ddbb6-2eaa-4dc8-b75e-ea1f7572a183.png)
 
 ![image](https://user-images.githubusercontent.com/63613042/169578448-57138beb-64e7-4230-8dbe-0114cd25648c.png)
 
@@ -35,5 +35,5 @@ Currently the script only does one topic at a time, in the future I'll implement
 ![image](https://user-images.githubusercontent.com/63613042/169578516-c51212c6-289a-4438-bb25-f161bc8a3577.png)
 
 ![image](https://user-images.githubusercontent.com/63613042/169578543-c0c00655-1c96-4ae5-b9c3-518228a5284d.png)
-
+ -->
 <h2> Done! </h2>
